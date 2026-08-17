@@ -232,6 +232,9 @@ async def route_gallery_strategy(fingerprint: GalleryFingerprint) -> IngestionRe
     )
 
 
+get_llm_recommendation = route_gallery_strategy
+
+
 if __name__ == "__main__":
     import asyncio
 

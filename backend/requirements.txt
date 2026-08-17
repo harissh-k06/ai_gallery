@@ -4,3 +4,7 @@ pydantic
 httpx
 openai
 python-dotenv
+modal
+pillow
+pillow-heif
+pillow-avif-plugin
